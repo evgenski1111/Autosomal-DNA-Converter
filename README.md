@@ -24,5 +24,7 @@ Example:
     aconv 264652-o36-results.csv.gz 23andme.txt -o 23andme
 
 
-Note: Converting to FTDNA from 23andme or ancestry will lose Y and mtDNA data as they are not part of raw download format. Converting Geno 2.0 to anything will not have build positions, but just a format change.
+Note: Converting to FTDNA from 23andme or ancestry will lose Y and mtDNA data as
+they are not part of raw download format. Converting Geno 2.0 to anything will not
+have build positions, but just a format change.
 ```
