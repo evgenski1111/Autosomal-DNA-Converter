@@ -1,7 +1,7 @@
 # Autosomal DNA Converter
 
 ## About
-The aim of this project is to enable the conversion of different data formats for autosomal DNA file. Supports the conversion of raw autosomal dna data from ftdna, 23andme, ancestry and decodeme to ftdna, 23andme and ancestry.
+The aim of this project is to enable the conversion of different data formats for autosomal DNA file. Supports the conversion of raw autosomal dna data from ftdna, 23andme, ancestry and decodeme to ftdna, 23andme and ancestry. You can download pre-built executable from [releases](https://github.com/fiidau/Autosomal-DNA-Converter/releases/latest).
 
 ## Usage:
 ```
